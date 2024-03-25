@@ -21,7 +21,7 @@ Integrated Development Environment (IDE): Eclipse
 Version Control System: Git
 
 4. Test Scenarios:
-5. 
+   
 The test scenarios will encompass a wide range of functionalities and user interactions within the E-commerce application:
 User registration and login process.
 Product search and filtering.
@@ -31,7 +31,7 @@ Payment gateway integration testing.
 Order confirmation and tracking.
 User account management (e.g., profile updates, order history).
 
-6. Test Environment Setup:
+5. Test Environment Setup:
 
 Establishing the testing environment with necessary configurations and dependencies.
 Setting up test data, including sample user accounts, products, and orders for testing purposes.
