@@ -1,8 +1,7 @@
-Project Title: Selenium Automation for E-commerce Application
-
-Project Description:
+Selenium Automation for E-commerce Application
 
 1. Introduction:
+
 In this project, I aim to implement Selenium automation testing for an E-commerce application. The E-commerce application chosen for this project will serve as the testing ground to demonstrate the capabilities of Selenium in ensuring the functionality, usability, and performance of the platform.
 
 2. Objectives:
@@ -12,6 +11,7 @@ Verify the correctness of various features such as user authentication, product 
 Validate the responsiveness and compatibility of the application across different web browsers and devices.
 Identify and report any defects or inconsistencies in the application behavior accurately.
 Improve the overall quality and reliability of the E-commerce platform through rigorous automated testing.
+
 3. Technologies and Tools:
 
 Selenium WebDriver: Used for automating web browser interactions and executing test scripts.
@@ -19,9 +19,10 @@ Programming Language (Java): To write test scripts and perform test automation.
 Cucumber and JUnit: Frameworks for organizing and executing automated tests.
 Integrated Development Environment (IDE): Eclipse
 Version Control System: Git
-4. Test Scenarios:
-The test scenarios will encompass a wide range of functionalities and user interactions within the E-commerce application:
 
+4. Test Scenarios:
+5. 
+The test scenarios will encompass a wide range of functionalities and user interactions within the E-commerce application:
 User registration and login process.
 Product search and filtering.
 Adding/removing items to/from the shopping cart.
@@ -30,7 +31,7 @@ Payment gateway integration testing.
 Order confirmation and tracking.
 User account management (e.g., profile updates, order history).
 
-5. Test Environment Setup:
+6. Test Environment Setup:
 
 Establishing the testing environment with necessary configurations and dependencies.
 Setting up test data, including sample user accounts, products, and orders for testing purposes.
